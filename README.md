@@ -7,7 +7,7 @@
 <p>
 Hi! I'm Claudia 🐼<br>
 I am a fullstack JavaScript developer from Macau 🇲🇴 living in Stockholm 🇸🇪<br>
-Currently working for School of applied technology <a href="https://www.salt.dev/" target="_blank"><b>< Salt /></a> 🧂<br>
+Currently working for School of applied technology <a href="https://www.salt.dev/" target="_blank"><b>< /salt ></a> 🧂<br>
 Apart from programming, I have a background in media 🎥 and education 🧑‍🏫
 </p>
 

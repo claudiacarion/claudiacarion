@@ -11,6 +11,7 @@ I am a noob JavaScript developer from Macau 🇲🇴 living in Stockholm 🇸�
 I graduated from School of applied technology's bootcamp December 2022 <a href="https://www.salt.dev/" target="_blank">< /salt ></a> 🧂<br>
 Apart from programming, I have a background in media 🎥 and education 👩‍🏫<br>
 I enjoy being creative and expressing who I am & what I love ❤️<br>
+Currently in <a href="https://futuregames.se/" target="_blank">Futuregames</a> Stockholm's Frontend Developer program🧠
 </p>
 
 ### 💻 Get in Touch : 

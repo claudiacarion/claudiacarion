@@ -10,13 +10,13 @@ I'm Claudia 🐼<br>
 I am a noob JavaScript developer from Macau 🇲🇴 living in Stockholm 🇸🇪<br>
 I graduated from School of applied technology's bootcamp December 2022 <a href="https://www.salt.dev/" target="_blank">< /salt ></a> 🧂<br>
 Apart from programming, I have a background in media 🎥 and education 👩‍🏫<br>
-I enjoy being creative and expressing who I am & what I love ❤️<br>
-Currently in <a href="https://futuregames.se/" target="_blank">Futuregames</a> Stockholm's Frontend Developer program🧠
+I enjoy being creative and crafty, you'll often find me with yarn and a crochet hook in my hands 🧶<br>
+Currently in <a href="https://futuregames.se/" target="_blank">Futuregames</a> Stockholm's Frontend Developer program 🧠
 </p>
 
 ### 💻 Get in Touch : 
 [![Linkedin Badge](https://img.shields.io/badge/-ClaudiaCarion-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-pereira-carion/)](https://www.linkedin.com/in/claudia-pereira-carion/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-ClaudiaCarion-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:claudia.carion@gmail.com)](mailto:claudia.carion@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:claudia.carion@gmail.com)](mailto:claudia.carion@gmail.com)
 
 ### 🛠️ Languages and Tools :
 <div>

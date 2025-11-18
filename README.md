@@ -15,7 +15,7 @@ Currently in <a href="https://futuregames.se/" target="_blank">Futuregames</a> S
 </p>
 
 ### 💻 Get in Touch : 
-[![Linkedin Badge](https://img.shields.io/badge/-ClaudiaCarion-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-pereira-carion/)](https://www.linkedin.com/in/claudia-pereira-carion/)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-pereira-carion/)](https://www.linkedin.com/in/claudia-pereira-carion/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:claudia.carion@gmail.com)](mailto:claudia.carion@gmail.com)
 
 ### 🛠️ Languages and Tools :
